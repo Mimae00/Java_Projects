@@ -4,53 +4,41 @@ Welcome to my Java Projects repository! This repository contains a collection of
 
 ### Projects
 
-1. **A-Needle-in-a-Haystack**
+1. **[A-Needle-in-a-Haystack](https://github.com/Mimae00/Java_Projects/tree/main/A-Needle-in-a-Haystack)**
    - A project that demonstrates string search algorithms to find a specific substring within a larger string.
-   - https://github.com/Mimae00/Java_Projects/tree/main/A-Needle-in-a-Haystack
 
-2. **Age-Range-Dating-Compatibility**
+2. **[Age-Range-Dating-Compatibility](https://github.com/Mimae00/Java_Projects/tree/main/Age-Range-Dating-Compatibility)**
    - A program that calculates compatibility based on age ranges using predefined criteria.
-   - https://github.com/Mimae00/Java_Projects/tree/main/Age-Range-Dating-Compatibility
 
-3. **Cat-Years-Dog-Years**
+3. **[Cat-Years-Dog-Years](https://github.com/Mimae00/Java_Projects/tree/main/Cat-Years-Dog-Years)**
    - A simple application that converts human years to cat and dog years based on specific formulas.
-   - https://github.com/Mimae00/Java_Projects/tree/main/Cat-Years-Dog-Years
 
-4. **Change-Dot-to-Dash-in-a-text**
+4. **[Change-Dot-to-Dash-in-a-text](https://github.com/Mimae00/Java_Projects/tree/main/Change-Dot-to-Dash-in-a-text)**
    - A text processing tool that replaces all dots (.) with dashes (-) in a given text file.
-   - https://github.com/Mimae00/Java_Projects/tree/main/Change-Dot-to-Dash-in-a-text
 
-5. **Find-Mean**
+5. **[Find-Mean](https://github.com/Mimae00/Java_Projects/tree/main/Find-Mean)**
    - A project that calculates the mean (average) of a set of numbers provided by the user.
-   - https://github.com/Mimae00/Java_Projects/tree/main/Find-Mean
 
-6. **From-A-Z**
+6. **[From-A-Z](https://github.com/Mimae00/Java_Projects/tree/main/From-A-Z)**
    - A program that sorts a list of strings in alphabetical order from A to Z.
-   - https://github.com/Mimae00/Java_Projects/tree/main/From-A-Z
 
-7. **Leap-Year**
+7. **[Leap-Year](https://github.com/Mimae00/Java_Projects/tree/main/Leap-Year)**
    - A utility that determines whether a given year is a leap year or not.
-   - https://github.com/Mimae00/Java_Projects/tree/main/Leap-Year
 
-8. **Pete-The-Baker**
+8. **[Pete-The-Baker](https://github.com/Mimae00/Java_Projects/tree/main/Pete-The-Baker)**
    - A fun project that calculates the maximum number of cakes that can be baked with the given ingredients.
-   - https://github.com/Mimae00/Java_Projects/tree/main/Pete-The-Baker
 
-9. **Sorting-Strings**
+9. **[Sorting-Strings](https://github.com/Mimae00/Java_Projects/tree/main/Sorting-Strings)**
    - A project that demonstrates various string sorting algorithms.
-   - https://github.com/Mimae00/Java_Projects/tree/main/Sorting-Strings
 
-10. **Sum-of-Multiples**
+10. **[Sum-of-Multiples](https://github.com/Mimae00/Java_Projects/tree/main/Sum-of-Multiples)**
     - A program that finds the sum of all multiples of a given number within a specified range.
-    - https://github.com/Mimae00/Java_Projects/tree/main/Sum-of-Multiples
-
-11. **The-Feast-of-Many-Beasts**
+   
+11. **[The-Feast-of-Many-Beasts](https://github.com/Mimae00/Java_Projects/tree/main/The-Feast-of-Many-Beasts)**
     - A program that checks if a specific animal can bring enough food for a feast based on certain conditions.
-    - https://github.com/Mimae00/Java_Projects/tree/main/The-Feast-of-Many-Beasts
 
-12. **To-square-root-or-not-to-square-root**
+12. **[To-square-root-or-not-to-square-root](https://github.com/Mimae00/Java_Projects/tree/main/To-square-root-or-not-to-square-root-)**
     - A mathematical project determining whether a number should be squared or square-rooted based on its properties.
-    - https://github.com/Mimae00/Java_Projects/tree/main/To-square-root-or-not-to-square-root-
    
 
 ### Embracing the Java Journey - A Personal Reflection
